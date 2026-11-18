@@ -30,8 +30,8 @@ The website aims to encourage people to participate in activities that support m
 community-wellness-directory/
 │
 ├── index.html
-├── style.css
 ├── script.js
+├── style.css
 └── images/
 ```
 
